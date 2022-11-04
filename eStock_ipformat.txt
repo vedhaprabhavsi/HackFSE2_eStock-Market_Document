@@ -1,0 +1,8 @@
+{
+    "companyCode":10003,
+	"companyName":"Infosys",
+	"companyCEO":"Salil",
+	"companyTurnover":110000010,
+	"companyWebsite":"www.infy.com",
+	"stockExchange": "NSE"
+}

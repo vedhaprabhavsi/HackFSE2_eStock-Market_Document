@@ -1,0 +1,54 @@
+Amazon ECR | Elastic Container Registry | Run Docker image on AWS ECS | JavaTechie => https://www.youtube.com/watch?v=XrJ-DTmP5bs
+
+Application Flow diagram -> https://github.com/Java-Techie-jt/springboot-docker-ecs
+
+CI/CD With AWS ECS + CodePipeline + CodeDeploy + CodeCommit + CodeBuild + Docker => https://www.youtube.com/watch?v=d7PTjQiahOQ
+
+Deploying a simple app using Docker and ECS | AWS Elastic Container Service | Great Learning => https://www.youtube.com/watch?v=h0Dk8K_ncp4
+
+Dockerize/Create Docker image => https://www.youtube.com/watch?v=e3YERpG2rMs&list=PLVz2XdJiJQxzMiFDnwxUDxmuZQU3igcBb&index=2
+
+SB & MongoDB Docker containers => https://www.youtube.com/watch?v=g0QCZSzEqCY&list=PLVz2XdJiJQxzMiFDnwxUDxmuZQU3igcBb&index=11
+
+How to Setup Confluent Kafka cluster on EC2 Instance => https://www.youtube.com/watch?v=f3jaO-wmQtA
+
+Kafka in AWS EC2 | Cloud Streaming Project Implementation (2/3) | Data Engineering Series #8 => https://www.youtube.com/watch?v=Iqq3QxvkCa4
+
+Run Spring Boot Docker image on AWS ECS | Amazon Elastic Container Service | JavaTechie => https://www.youtube.com/watch?v=z7_LdCVnCRU
+
+Spring Boot + Angular + MYSQL on AWS ECS Fargate | AWS ECS Fargate => https://www.youtube.com/watch?v=zJMqCjc2qIc
+
+Amazon API Gateway | Access Your Spring Boot Microservice | JavaTechie => https://www.youtube.com/watch?v=3iwItfr4N38
+
+How to Build and Deploy SpringBoot Microservice with docker on AWS ECS | AWS Fargate| 2020 => https://www.youtube.com/watch?v=l_QNCNjNc3w
+
+Spring Boot + Angular + MYSQL on AWS ECS Fargate | AWS ECS Fargate => https://www.youtube.com/watch?v=zJMqCjc2qIc
+
+Docker & Angular: Dockerizing your Angular Application | JavaTechie => https://www.youtube.com/watch?v=J9uKG22lBwA
+
+===============================================================================================
+Followed:
+---------
+MongoDB Atlas in SB project -> https://www.youtube.com/watch?v=liKqqPUXYEY
+
+https://stackoverflow.com/questions/37234194/docker-says-no-connection-could-be-made-because-the-target-machine-actively-ref
+
+How to Build and Deploy SpringBoot Microservice with docker on AWS ECS | AWS Fargate| 2020 => https://www.youtube.com/watch?v=l_QNCNjNc3w
+
+Dockerfile for Angular => https://www.youtube.com/watch?v=J9uKG22lBwA
+
+===============================================================================================
+
+
+
+Docker Image
+AWS ECR
+AWS ECS
+Angular in ECS
+API Gateway
+Documentation
+Q&A
+
+
+
+

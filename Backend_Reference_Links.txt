@@ -1,0 +1,91 @@
+GIT link:
+----------
+
+Backend submittEd code -> https://github.com/vedhaprabhavsi/HackFSE2_SB_Code (HackFSE2_eStock_Market.zip)
+
+Reference GitHub for Kafka producer and consumer -> https://github.com/Amuthan1603/FSE1-IIHT-training
+
+Reference UI -> https://github.com/priya26397/estockmarket-angular
+
+Reference for Backend -> https://github.com/priya26397/ESTOCKMARKET-FSE/tree/cqrs-eventsourcing
+
+Reference from mentors -> CQRS with Axon framework -> https://github.com/Krishnamurtyp/cqrs-microservice-sampler
+
+My Initial version of Backend code -> https://github.com/vedhaprabhavsi/HackFSE2_eStock_market/tree/master/ESTOCKMARKET-FSE-cqrs-eventsourcing
+
+Docker compose file reference -> https://gist.github.com/shabbirdwd53/d3b531d61379068da26d16487e37af34
+
+Kafka reference from IIHT (Consumer & Producer) -> https://github.com/Amuthan1603/FSE1-IIHT-training/tree/main/workspace/kafka
+
+Kafka reference from IIHT (Publisher) -> https://github.com/IIHT-Spring/Kafka-publiser
+
+Kafka reference from IIHT (Consumer)-> https://github.com/IIHT-Spring/kafka-consumer
+
+Spring Boot swagger example -> https://github.com/TechPrimers/spring-boot-swagger-example
+
+=====================================================================================================
+
+Cognizant Udemy Course -> https://cognizant.udemy.com/course/java-microservices-cqrs-event-sourcing-with-kafka/learn/lecture/26391108#overview
+
+=====================================================================================================
+
+Youtube Links:
+----------------
+
+Spring boot with Kafka Producer Example -> https://www.youtube.com/watch?v=NjHYWEV_E_o
+
+How to install Kafka using Docker & Docker Compose in any Operating System | Windows | MacOS | Linux -> https://www.youtube.com/watch?v=2pBxoal7DY4
+
+Kafka installation using Docker and Docker Compose | Kafka | Docker | Docker Compose -> https://www.youtube.com/watch?v=WnlX7w4lHvM
+
+Kafka with Docker Compose -> https://www.youtube.com/watch?v=gwRcbDebmIg
+
+Running MySQL with Docker Compose -> https://www.youtube.com/watch?v=krDi5y3iHmY
+
+Mongo DB with docker -> https://www.youtube.com/watch?v=uklyCSKQ1Po
+
+
+How to generate OTP in Java | Coding Skills -> https://www.youtube.com/watch?v=Sxfm4n3mMuQ
+
+How to Send SMS quickly from Java Program | Send SMS Using Java | Http API call to send  -> https://www.youtube.com/watch?v=O2CCd04WpkE
+
+Send OTP(One Time Password) Using Spring Boot Application | Build Complete Application from scratch -> https://www.youtube.com/watch?v=6IgaT3-5yuQ
+
+
+Spring Security Videos:
+https://www.youtube.com/watch?v=XpMXAxDN7mY
+https://www.youtube.com/watch?v=OxyBRjGfJsk
+
+
+Spring Security JWT Authentication Tutorial -> https://www.youtube.com/watch?v=S7jV6di6Pl0
+
+How to Implement JWT (JSON Web Token) in Spring Boot - A Simplified Tutorial (Part 1) -> https://www.youtube.com/watch?v=-owDXanjSEQ
+
+How to Implement JWTJSON Web Token in Spring Boot - A Simplified Tutorial - Part 2  -> https://www.youtube.com/watch?v=04Go770BF3U
+
+Implementing JWT authentication in 8 steps for securing APIS | one video | backend course -> https://www.youtube.com/watch?v=P_29bHsVjjg
+
+Spring Boot REST Security using JWT | 23rd August by Mr. Raghu Sir -> https://www.youtube.com/watch?v=bJAsHOH4lMk
+
+Spring Security JWT Authentication Tutorial -> https://www.youtube.com/watch?v=S7jV6di6Pl0
+
+
+
+[SOLVED] Error: Failed to load API definition Fetch error in Swagger -> https://www.youtube.com/watch?v=dP555GvGTbU
+
+REST API Documentation using Swagger2 in Spring Boot | Tech Primers -> https://www.youtube.com/watch?v=HHyjWc0ASl8
+
+=======================================================================================================================================
+
+Reference Links:
+-----------------
+
+https://stackoverflow.com/questions/60836152/failed-to-load-api-definition-in-springboot
+
+https://www.thecodebuzz.com/resolved-failed-to-load-api-definition-undefined-swagger-v1-swagger-json/
+
+https://piotrminkowski.wordpress.com/2017/04/14/microservices-api-documentation-with-swagger2/
+
+https://www.kindsonthegenius.com/spring-boot/jwtjson-web-token-with-springboot-step-by-step-tutorial-part-1/
+
+https://www.bmc.com/blogs/mongodb-docker-container/

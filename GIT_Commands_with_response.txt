@@ -1,0 +1,163 @@
+
+CTS+2065301@LTIN343723 MINGW64 ~/eStock-Market_Src_Code/companyService
+$ git init
+Initialized empty Git repository in C:/Users/2065301/eStock-Market_Src_Code/companyService/.git/
+
+CTS+2065301@LTIN343723 MINGW64 ~/eStock-Market_Src_Code/companyService (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Dockerfile
+        appspec.yaml
+        buildspec.yaml
+        mvnw
+        mvnw.cmd
+        pom.xml
+        src/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+CTS+2065301@LTIN343723 MINGW64 ~/eStock-Market_Src_Code/companyService (master)
+$ git add .
+warning: LF will be replaced by CRLF in Dockerfile.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in appspec.yaml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in buildspec.yaml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in mvnw.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in mvnw.cmd.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in pom.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/CompanyService.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/api/aggregate/CompanyAggregate.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/command/api/commands/CompanyCreateCommand.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/command/api/commands/DeleteCompanyCommand.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/command/api/controller/CompanyCommandController.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/config/OpenApi30Config.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/config/RestTemplateConfig.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/config/SecurityConfig.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/data/Company.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/data/CompanyJpaRepo.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/data/CompanyReadRepo.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/error/InvalidDataException.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/error/RestResponseEntityExceptionHandler.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/events/CompanyCreatedEvent.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/events/CompanyDeletedEvent.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/events/CompanyEventsHandler.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/filter/ReqFilter.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/model/CompanyReadModel.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/model/CompanyWriteModel.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/model/ErrorMessage.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/model/Stock.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/model/UserDto.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/query/api/controller/CompanyQueryController.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/query/api/projection/CompanyProjection.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/query/api/queries/GetCompaniesQuery.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/java/com/estockMarket/companyService/query/api/queries/GetCompanyQuery.java.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/resources/application.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main/resources/log4j2.xml.
+The file will have its original line endings in your working directory
+
+CTS+2065301@LTIN343723 MINGW64 ~/eStock-Market_Src_Code/companyService (master)
+$ git commit -m "Initial Commit"
+[master (root-commit) db94f82] Initial Commit
+ Committer: Vedavyasalu <2065301@cognizant.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 1786 insertions(+)
+ create mode 100644 Dockerfile
+ create mode 100644 appspec.yaml
+ create mode 100644 buildspec.yaml
+ create mode 100644 mvnw
+ create mode 100644 mvnw.cmd
+ create mode 100644 pom.xml
+ create mode 100644 src/main/java/com/estockMarket/companyService/CompanyService.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/api/aggregate/CompanyAggregate.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/command/api/commands/CompanyCreateCommand.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/command/api/commands/DeleteCompanyCommand.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/command/api/controller/CompanyCommandController.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/config/OpenApi30Config.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/config/RestTemplateConfig.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/config/SecurityConfig.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/data/Company.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/data/CompanyJpaRepo.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/data/CompanyReadRepo.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/error/InvalidDataException.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/error/RestResponseEntityExceptionHandler.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/events/CompanyCreatedEvent.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/events/CompanyDeletedEvent.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/events/CompanyEventsHandler.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/filter/ReqFilter.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/model/CompanyReadModel.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/model/CompanyWriteModel.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/model/ErrorMessage.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/model/Stock.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/model/UserDto.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/query/api/controller/CompanyQueryController.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/query/api/projection/CompanyProjection.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/query/api/queries/GetCompaniesQuery.java
+ create mode 100644 src/main/java/com/estockMarket/companyService/query/api/queries/GetCompanyQuery.java
+ create mode 100644 src/main/resources/application.properties
+ create mode 100644 src/main/resources/log4j2.xml
+
+CTS+2065301@LTIN343723 MINGW64 ~/eStock-Market_Src_Code/companyService (master)
+$ git remote add origin https://github.com/vedhaprabhavsi/eStock_Company_Service.git
+
+CTS+2065301@LTIN343723 MINGW64 ~/eStock-Market_Src_Code/companyService (master)
+$ git push origin master
+Enumerating objects: 60, done.
+Counting objects: 100% (60/60), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (51/51), done.
+Writing objects: 100% (60/60), 21.31 KiB | 948.00 KiB/s, done.
+Total 60 (delta 5), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (5/5), done.
+To https://github.com/vedhaprabhavsi/eStock_Company_Service.git
+ * [new branch]      master -> master
+
+CTS+2065301@LTIN343723 MINGW64 ~/eStock-Market_Src_Code/companyService (master)
+$

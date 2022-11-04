@@ -1,0 +1,19 @@
+AXOS Framework -> Backend & Frontend
+
+ngTest
+
+Share code
+
+Share Mockito API controller and service - SB
+
+elastic beanstalk CLI - docker-compose
+
+how CQRS dbs connect?
+
+
+
+Protractor - UI unit testing
+
+Code Coverage
+
+deploying multi-container app on aws using eb cli
